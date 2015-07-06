@@ -1,7 +1,7 @@
 # Maintainer: BlackEagle < ike DOT devolder AT gmail DOT be >
 pkgname=par2unrar
 pkgver=0.2
-pkgrel=2
+pkgrel=3
 pkgdesc="Check, Repair and Extract your binaries"
 url="http://www.archlinux.org"
 license="GPL"

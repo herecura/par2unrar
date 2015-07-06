@@ -1,7 +1,7 @@
 pkgbase = par2unrar
 	pkgdesc = Check, Repair and Extract your binaries
 	pkgver = 0.2
-	pkgrel = 2
+	pkgrel = 3
 	url = http://www.archlinux.org
 	arch = any
 	license = GPL
